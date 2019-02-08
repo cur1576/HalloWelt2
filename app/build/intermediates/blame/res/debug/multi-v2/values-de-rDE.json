@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\workspace_android\\HalloWelt2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de-rDE\\values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "C:\\workspace_android\\HalloWelt2\\app\\src\\main\\res\\values-de-rDE\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "47",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    }
+                }
+            ]
+        }
+    ]
+}
